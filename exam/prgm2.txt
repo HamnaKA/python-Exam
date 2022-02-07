@@ -1,0 +1,5 @@
+Python is a high-level interpreted interactive and object-oriented scripting language
+python is designed to be highly readable
+it uses English keywords frequently where as other
+languages use punctuation
+it has fewer syntactical constructions than other languages
